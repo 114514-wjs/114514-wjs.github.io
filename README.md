@@ -7,7 +7,7 @@
 [blog4](https://acjudge.com/d/atcoder/blog/1214/65ed0f69cde3218b13a64efd#1710034793656)
 
 
-
+[头文件下载](https://acjudge.com/file/1214/super.cpp)
 
 
 
