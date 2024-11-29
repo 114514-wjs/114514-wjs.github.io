@@ -9,7 +9,8 @@
 
 [头文件下载](https://acjudge.com/file/1214/super.cpp)
 
-
+我的ACJUDGE:`1214`
+我的LUOGU:`1051057`
 
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
